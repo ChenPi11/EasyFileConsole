@@ -1,0 +1,11 @@
+# this is .gitignore file.
+
+#dirs
+x64/
+.vs/
+
+#executeable
+*.exe
+
+#compile files
+*.pdb
